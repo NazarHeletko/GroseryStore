@@ -1,0 +1,21 @@
+.single-product {
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 6px;
+    margin: 20px;
+    position: relative;
+}
+
+.single-product img {
+    height: 100px;
+    width: 100px;
+}
+.delete {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.priority {
+    margin-bottom: 10px;
+}
